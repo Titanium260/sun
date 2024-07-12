@@ -1,0 +1,1 @@
+{"rustc":9226522817172884125,"features":"[\"std\"]","declared_features":"[\"std\"]","target":17329863712076082329,"profile":14620777910751233144,"path":3065101433577325613,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/numtoa-c40b98112a5214d2/dep-lib-numtoa"}}],"rustflags":[],"metadata":13664275377339777612,"config":2202906307356721367,"compile_kind":0}
